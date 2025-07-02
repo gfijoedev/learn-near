@@ -1,0 +1,14 @@
+{
+  "name": "hello-near-examples",
+  "type": "module",
+  "packageManager": "yarn@4.9.1",
+  "dependencies": {
+    "@near-js/accounts": "^2.1.0",
+    "@near-js/crypto": "^2.1.0",
+    "@near-js/providers": "^2.1.0",
+    "@near-js/signers": "^2.1.0",
+    "@near-js/tokens": "^2.1.0",
+    "dotenv": "^17.0.1",
+    "near-seed-phrase": "^0.2.1"
+  }
+}
